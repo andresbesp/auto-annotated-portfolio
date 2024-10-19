@@ -4,7 +4,7 @@ title: Home
 colors: colors-d
 backgroundImage:
   type: BackgroundImage
-  backgroundSize: auto
+  backgroundSize: contain
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
